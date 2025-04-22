@@ -56,7 +56,6 @@ GROQ_API_KEY=your_groq_api_key_here
 poetry run streamlit run main.py
 ```
 
-
 ## Usage
 
 1. Enter the career page URL of a company.
@@ -78,6 +77,7 @@ Dear [Hiring Manager],
 I'm Mohan, a Business Development Executive at AtliQ. Based on your recent job posting for [Role] at [Company], I wanted to share how AtliQ can help...
 
 (Portfolio links automatically inserted)
+
 
 ## Screenshots
 
