@@ -1,5 +1,5 @@
 [project]
-name = "Cold Mail Generator"
+name = "Cold_Mail_Generator"
 version = "0.1.0"
 description = ""
 authors = [
@@ -14,7 +14,8 @@ dependencies = [
     "langchain-community (>=0.3.21,<0.4.0)",
     "beautifulsoup4 (>=4.13.3,<5.0.0)",
     "pandas (>=2.2.3,<3.0.0)",
-    "streamlit (>=1.44.1,<2.0.0)"
+    "streamlit (>=1.44.1,<2.0.0)",
+    "langchain (>=0.3.23,<0.4.0)"
     ]
 
 [tool.poetry]
